@@ -6,7 +6,7 @@ It provides an interactive form layout where users can enter personal details, j
 ---
 
 ## 📸 Preview
-![Job Form Screenshot](images/form-preview.png)
+![Job Form Screenshot](image/Project2.png)
 
 ---
 
@@ -34,7 +34,7 @@ job-application-form/
 ---
 
 ## 🔗 Live Demo
-(You can add GitHub Pages link here after deployment)
+(https://attiq-ur-rehman4855.github.io/job-application-form/)
 
 ---
 
